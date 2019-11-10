@@ -1,0 +1,8 @@
+D:\Learning\Code\dotNet\CardGames\CardGames.Application\bin\Debug\netcoreapp3.0\CardGames.Application.deps.json
+D:\Learning\Code\dotNet\CardGames\CardGames.Application\bin\Debug\netcoreapp3.0\CardGames.Application.dll
+D:\Learning\Code\dotNet\CardGames\CardGames.Application\bin\Debug\netcoreapp3.0\CardGames.Application.pdb
+D:\Learning\Code\dotNet\CardGames\CardGames.Application\obj\Debug\netcoreapp3.0\CardGames.Application.csprojAssemblyReference.cache
+D:\Learning\Code\dotNet\CardGames\CardGames.Application\obj\Debug\netcoreapp3.0\CardGames.Application.AssemblyInfoInputs.cache
+D:\Learning\Code\dotNet\CardGames\CardGames.Application\obj\Debug\netcoreapp3.0\CardGames.Application.AssemblyInfo.cs
+D:\Learning\Code\dotNet\CardGames\CardGames.Application\obj\Debug\netcoreapp3.0\CardGames.Application.dll
+D:\Learning\Code\dotNet\CardGames\CardGames.Application\obj\Debug\netcoreapp3.0\CardGames.Application.pdb

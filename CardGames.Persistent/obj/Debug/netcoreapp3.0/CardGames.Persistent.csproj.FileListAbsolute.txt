@@ -1,0 +1,11 @@
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\bin\Debug\netcoreapp3.0\CardGames.Persistent.deps.json
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\bin\Debug\netcoreapp3.0\CardGames.Persistent.dll
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\obj\Debug\netcoreapp3.0\CardGames.Persistent.csprojAssemblyReference.cache
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\obj\Debug\netcoreapp3.0\CardGames.Persistent.AssemblyInfoInputs.cache
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\obj\Debug\netcoreapp3.0\CardGames.Persistent.AssemblyInfo.cs
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\bin\Debug\netcoreapp3.0\CardGames.Persistent.pdb
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\bin\Debug\netcoreapp3.0\CardGames.Domain.dll
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\bin\Debug\netcoreapp3.0\CardGames.Domain.pdb
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\obj\Debug\netcoreapp3.0\CardGames.Persistent.csproj.CopyComplete
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\obj\Debug\netcoreapp3.0\CardGames.Persistent.dll
+D:\Learning\Code\dotNet\CardGames\CardGames.Persistent\obj\Debug\netcoreapp3.0\CardGames.Persistent.pdb

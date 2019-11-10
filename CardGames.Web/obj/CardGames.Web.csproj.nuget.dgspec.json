@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Web\\CardGames.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Application\\CardGames.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Application\\CardGames.Application.csproj",
+        "projectName": "CardGames.Application",
+        "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Application\\CardGames.Application.csproj",
+        "packagesPath": "C:\\Users\\AnhKhoa\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnhKhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj": {
+                "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj",
+        "projectName": "CardGames.Domain",
+        "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj",
+        "packagesPath": "C:\\Users\\AnhKhoa\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnhKhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Persistent\\CardGames.Persistent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Persistent\\CardGames.Persistent.csproj",
+        "projectName": "CardGames.Persistent",
+        "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Persistent\\CardGames.Persistent.csproj",
+        "packagesPath": "C:\\Users\\AnhKhoa\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Persistent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnhKhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Application\\CardGames.Application.csproj": {
+                "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Application\\CardGames.Application.csproj"
+              },
+              "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj": {
+                "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Web\\CardGames.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Web\\CardGames.Web.csproj",
+        "projectName": "CardGames.Web",
+        "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Web\\CardGames.Web.csproj",
+        "packagesPath": "C:\\Users\\AnhKhoa\\.nuget\\packages\\",
+        "outputPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AnhKhoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Application\\CardGames.Application.csproj": {
+                "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Application\\CardGames.Application.csproj"
+              },
+              "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj": {
+                "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Domain\\CardGames.Domain.csproj"
+              },
+              "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Persistent\\CardGames.Persistent.csproj": {
+                "projectPath": "D:\\Learning\\Code\\dotNet\\CardGames\\CardGames.Persistent\\CardGames.Persistent.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.TypeScript.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.7.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "microsoft.aspnetcore.spaservices": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "microsoft.aspnetcore.spaservices.extensions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

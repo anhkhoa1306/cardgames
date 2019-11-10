@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CardGames.Infrastructure/1.0.0": {
+        "runtime": {
+          "CardGames.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CardGames.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
